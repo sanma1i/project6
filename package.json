@@ -1,0 +1,21 @@
+{
+  "name": "project6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magdalena Santos",
+  "license": "ISC",
+  "description": "Portfolio created by node.js and express",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanma1i/project6"
+  },
+  "homepage": "https://github.com/sanma1i/project6/blob/master/README.md"
+}
