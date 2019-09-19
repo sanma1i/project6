@@ -34,7 +34,7 @@
              "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
              "live_link": "  https://sanma1i.github.io/project4-OOP-Game-Show-App/",
              "github_link": "https://sanma1i.github.io/project3-Interactive-Form/ ",
-             "image_urls": ["/static/images/project4.PNG", "/static/images/project4.pic2.PNG"]
+             "image_urls": ["/static/images/project4,picture1.PNG", "/static/images/project4,pic2.PNG", "/static/images/project4,picture3.PNG"]
          },
          {
              "id": 4,
@@ -52,7 +52,7 @@
              "technologies": ["HTML", "CSS", "Node", "Express", "Pug"],
              "live_link": "https://sanma1i.github.io/project6-Static-Node.js-and-Express-Site/",
              "github_link": "https://github.com/sanma1i/project6-Static-Node.js-and-Express-Site",
-             "image_urls": []
+             "image_urls": ["/static/images/project6picture1.PNG"]
          }
 
      ]
