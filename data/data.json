@@ -53,6 +53,17 @@
              "live_link": "https://sanma1i.github.io/project6-Static-Node.js-and-Express-Site/",
              "github_link": "https://github.com/sanma1i/project6-Static-Node.js-and-Express-Site",
              "image_urls": ["/static/images/project6picture1.PNG"]
+         },
+         {
+             "id": 6,
+             "project-name": "React Gallety App",
+             "description": "Using React and the Flicker API to create an image gallery application",
+             "technologies": ["React", "API", "JavaScript", "HTML", "CSS"],
+             "live_link": "https://sanma1i.github.io/project7-React-Gallery-App/",
+             "github_link": "https: //github.com/sanma1i/project7-React-Gallery-App/settings",
+             "image_urls": []
+
+
          }
 
      ]

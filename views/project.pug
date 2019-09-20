@@ -23,7 +23,7 @@ block content
           each technology in proj.technologies
            li #{technology}
           
-
+        if project.live_link
         
         a.button.expanded(href=`${proj.live_link}`, target="_blank") Live Demo
         a.button.expanded(href=`${proj.github_link}`, target="_blank") GitHub Repo
