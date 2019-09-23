@@ -77,7 +77,7 @@
              "description": "",
              "technologies": [],
              "github_link": "https://github.com/sanma1i/project9",
-             "image_urls": []
+             "image_urls": ["/static/images/project9pic1.PNG", "/static/images/project9pic2.PNG"]
          },
          {
              "id": 9,
