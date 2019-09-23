@@ -52,21 +52,40 @@
              "technologies": ["HTML", "CSS", "Node", "Express", "Pug"],
              "live_link": "https://sanma1i.github.io/project6-Static-Node.js-and-Express-Site/",
              "github_link": "https://github.com/sanma1i/project6-Static-Node.js-and-Express-Site",
-             "image_urls": ["/static/images/project6picture1.PNG"]
+             "image_urls": ["/static/images/project6picture11.PNG"]
          },
          {
              "id": 6,
-             "project-name": "React Gallety App",
+             "project_name": "React Gallety App",
              "description": "Using React and the Flicker API to create an image gallery application",
              "technologies": ["React", "API", "JavaScript", "HTML", "CSS"],
              "live_link": "https://sanma1i.github.io/project7-React-Gallery-App/",
-             "github_link": "https: //github.com/sanma1i/project7-React-Gallery-App/settings",
+             "github_link": "https://github.com/sanma1i/project7-React-Gallery-App",
+             "image_urls": ["/static/images/project7picture1.PNG", "/static/images/project7picture2.PNG"]
+         },
+         {
+             "id": 7,
+             "project_name": "SQL Library Manager",
+             "description": "",
+             "technologies": ["JavaScript", "HTML", "CSS"],
+             "github_link": "https://https://github.com/sanma1i/project8",
+             "image_urls": ["/static/images/project8pic1.PNG", "/static/images/project8pic2.PNG"]
+         },
+         {
+             "id": 8,
+             "project_name": "REST API",
+             "description": "",
+             "technologies": [],
+             "github_link": "https://github.com/sanma1i/project9",
              "image_urls": []
-
-
+         },
+         {
+             "id": 9,
+             "project_name": "",
+             "description": "",
+             "technologies": "",
+             "github_link": "https://github.com/sanma1i/project10",
+             "image_urls": ["/static/images/project10picture1.PNG", "/static/images/project10picture2.PNG"]
          }
-
      ]
-
-
  }
