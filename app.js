@@ -21,9 +21,9 @@ app.get('/project/:id', (req, res, next) => {
     const {
         id
     } = req.params;
-    console.log(projects[id]);
-    if (id && id < projects.length) {
-        const proj = projects[id];
+    console.log(projects[id - 1]);
+    if (id && id < projects.length + 1) {
+        const proj = projects[id - 1];
         res.render("project", {
             proj
         });
@@ -44,7 +44,7 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) => {
     console.log(err.message);
     res.status(err.status);
-    if (err.ststus === undefined) {
+    if (err.status === undefined) {
         console.log('Error 500-Internal Server Error')
     }
     res.render('error', {

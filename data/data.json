@@ -1,91 +1,89 @@
  {
      "projects": [{
-             "id": 0,
+             "id": 1,
              "project_name": "Random Quote Generator",
              "description": "Generates random quotes from a list of five quotes",
              "technologies": ["HTML", "CSS", "JavaScript"],
              "live_link": "https://sanma1i.github.io/random-quote-generator/",
-             "github_link": "https: //github.com/sanma1i/random-quote-generator",
-             "image_urls": ["/static/images/project1.PNG", "/static/images/project1.pic2.PNG"]
+             "github_link": "https://github.com/sanma1i/random-quote-generator",
+             "image_urls": ["/static/images/project1.pic1.PNG", "/static/images/project1.pic2.PNG"]
          },
          {
-             "id": 1,
+             "id": 2,
              "project_name": "Pagination-and-Filtering",
              "description": "Displaying 10 students per page",
              "technologies": ["HTML", "CSS", "JavaScript"],
              "live_link": "https://sanma1i.github.io/Pagination-and-Filtering/",
              "github_link": "https://github.com/sanma1i/Pagination-and-Filtering",
-             "image_urls": ["/static/images/project2.PNG", "/static/images/project2.pic2.PNG"]
+             "image_urls": ["/static/images/project2.pic1.PNG", "/static/images/project2.pic2.PNG"]
 
          },
          {
-             "id": 2,
+             "id": 3,
              "project_name": "Interactive Form",
              "description": "Creating an interactive form",
              "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
              "live_link": " https://sanma1i.github.io/project3-Interactive-Form/",
              "github_link": "https://github.com/sanma1i/project3-Interactive-Form ",
-             "image_urls": ["/static/images/project3.PNG", "/static/images/project3.pic2.PNG"]
-         },
-         {
-             "id": 3,
-             "project_name": "OOP Game Show App",
-             "description": "Creating a game,using object-oriented JavaScript",
-             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
-             "live_link": "  https://sanma1i.github.io/project4-OOP-Game-Show-App/",
-             "github_link": "https://sanma1i.github.io/project3-Interactive-Form/ ",
-             "image_urls": ["/static/images/project4,picture1.PNG", "/static/images/project4,pic2.PNG", "/static/images/project4,picture3.PNG"]
+             "image_urls": ["/static/images/project3.pic1.PNG", "/static/images/project3.pic2.PNG"]
          },
          {
              "id": 4,
+             "project_name": "OOP Game Show App",
+             "description": "Creating a game,using object-oriented JavaScript",
+             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+             "live_link": "https://sanma1i.github.io/project4-OOP-Game-Show-App/",
+             "github_link": "https://github.com/sanma1i/project4-OOP-Game-Show-App ",
+             "image_urls": ["/static/images/project4.pic1.PNG", "/static/images/project4.pic2.PNG", "/static/images/project4.pic3.PNG"]
+         },
+         {
+             "id": 5,
              "project_name": "Public API Request",
              "description": "Creating employee directory using JSON",
              "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "JSON"],
              "live_link": "https://sanma1i.github.io/project5-Public-API-Requests/.",
              "github_link": "https://github.com/sanma1i/project5-Public-API-Requests ",
-             "image_urls": ["/static/images/project5.PNG", "/static/images/project5.pic2.PNG"]
-         },
-         {
-             "id": 5,
-             "project_name": "Static-Node.js-and-Express-Site",
-             "description": "Using Node,Express, and Pug to create a personal portfolio page",
-             "technologies": ["HTML", "CSS", "Node", "Express", "Pug"],
-             "live_link": "https://sanma1i.github.io/project6-Static-Node.js-and-Express-Site/",
-             "github_link": "https://github.com/sanma1i/project6-Static-Node.js-and-Express-Site",
-             "image_urls": ["/static/images/project6picture11.PNG"]
+             "image_urls": ["/static/images/project5.pic1.PNG", "/static/images/project5.pic2.PNG"]
          },
          {
              "id": 6,
-             "project_name": "React Gallety App",
-             "description": "Using React and the Flicker API to create an image gallery application",
-             "technologies": ["React", "API", "JavaScript", "HTML", "CSS"],
-             "live_link": "https://sanma1i.github.io/project7-React-Gallery-App/",
-             "github_link": "https://github.com/sanma1i/project7-React-Gallery-App",
-             "image_urls": ["/static/images/project7picture1.PNG", "/static/images/project7picture2.PNG"]
+             "project_name": "Static-Node.js-and-Express-Site",
+             "description": "Using Node,Express, and Pug to create a personal portfolio page",
+             "technologies": ["HTML", "CSS", "Node", "Express", "Pug"],
+             "github_link": "https://github.com/sanma1i/project6-Static-Node.js-and-Express-Site",
+             "image_urls": ["/static/images/project6.pic1.PNG"]
          },
          {
              "id": 7,
-             "project_name": "SQL Library Manager",
-             "description": "",
-             "technologies": ["JavaScript", "HTML", "CSS"],
-             "github_link": "https://https://github.com/sanma1i/project8",
-             "image_urls": ["/static/images/project8pic1.PNG", "/static/images/project8pic2.PNG"]
+             "project_name": "React Gallery App",
+             "description": "Using React and the Flicker API to create an image gallery application",
+             "technologies": ["React", "API", "JavaScript", "HTML", "CSS"],
+             "github_link": "https://github.com/sanma1i/project7-React-Gallery-App",
+             "image_urls": ["/static/images/project7.pic1.PNG", "/static/images/project7.pic2.PNG"]
          },
          {
              "id": 8,
-             "project_name": "REST API",
-             "description": "",
-             "technologies": [],
-             "github_link": "https://github.com/sanma1i/project9",
-             "image_urls": ["/static/images/project9pic1.PNG", "/static/images/project9pic2.PNG"]
+             "project_name": "SQL Library Manager",
+             "description": "blah",
+             "technologies": ["JavaScript", "HTML", "CSS"],
+             "github_link": "https://github.com/sanma1i/project8-SQL-Library-Manager",
+             "image_urls": ["/static/images/project8.pic1.PNG", "/static/images/project8.pic2.PNG"]
          },
          {
              "id": 9,
-             "project_name": "",
-             "description": "",
-             "technologies": "",
-             "github_link": "https://github.com/sanma1i/project10",
-             "image_urls": ["/static/images/project10picture1.PNG", "/static/images/project10picture2.PNG"]
+             "project_name": "REST API",
+             "description": "blah",
+             "technologies": ["JavaScript"],
+             "github_link": "https://github.com/sanma1i/project9-REST-API",
+             "image_urls": ["/static/images/project9.pic1.PNG", "/static/images/project9.pic2.PNG"]
+         },
+         {
+             "id": 10,
+             "project_name": "Full Stack App with React and a REST API",
+             "description": "blah",
+             "technologies": ["JavaScript", "HTML", "CSS"],
+             "github_link": "https://github.com/sanma1i/project10-Full-Stack-App-with-React-and-REST-API",
+             "image_urls": ["/static/images/project10.pic1.PNG", "/static/images/project10.pic2.PNG"]
          }
      ]
  }
